@@ -1,3 +1,4 @@
+
 线路一 ,#genre# 
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -136,15 +137,29 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 东南卫视,https://video.lzjtu.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/index.m3u8
 广东卫视,https://video.lzjtu.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/index.m3u8
 重庆卫视,https://video.lzjtu.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/index.m3u8
+广西卫视,https://video.lzjtu.edu.cn/liverespath/15f9ffc8f72eb7f7ddfe79669f246e4db4acc3c1/index.m3u8
 浙江卫视,https://video.lzjtu.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/index.m3u8
 四川卫视,https://video.lzjtu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8
 江西卫视,https://video.lzjtu.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/index.m3u8
 江苏卫视,https://video.lzjtu.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/index.m3u8
+陕西卫视,https://video.lzjtu.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/index.m3u8
+四川卫视,https://video.lzjtu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8
 河北卫视,https://video.lzjtu.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/index.m3u8
+山西卫视,https://video.lzjtu.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8
 山东卫视,https://video.lzjtu.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/index.m3u8
 安徽卫视,https://video.lzjtu.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/index.m3u8
+河南卫视,https://video.lzjtu.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/index.m3u8
+宁夏卫视,https://video.lzjtu.edu.cn/liverespath/eefad27700cf7ea30b4f5145f0b8d466a27c1478/index.m3u8
+云南卫视,https://video.lzjtu.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/index.m3u8
+海南卫视,https://video.lzjtu.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/index.m3u8
+贵州卫视,https://video.lzjtu.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/index.m3u8
+甘肃卫视,https://video.lzjtu.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/index.m3u8
+内蒙古台,https://video.lzjtu.edu.cn/liverespath/5a601b122fcaacb6480b65cb74ee8f76347020d6/index.m3u8
 辽宁卫视,https://video.lzjtu.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/index.m3u8
-黑龙江卫视,https://video.lzjtu.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/index.m3u8
+黑龙江台,https://video.lzjtu.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/index.m3u8
+青海卫视,https://video.lzjtu.edu.cn/liverespath/468aa6e90a67946eeb0e862e4b9f2764ee13cc75/index.m3u8
+新疆卫视,https://video.lzjtu.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/index.m3u8
+西藏卫视,https://video.lzjtu.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/index.m3u8
 
 CCTV1,http://221.2.36.34:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8
@@ -463,6 +478,8 @@ CCTV15,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8?key=txiptv
 西藏卫视,http://222.175.159.226:808/hls/202371/index.m3u8
 陕西卫视,http://222.175.159.226:808/hls/202365/index.m3u8
 青海卫视,http://222.175.159.226:808/hls/202370/index.m3u8
+广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 
 
 江苏靓妆,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls?zjiangsd
@@ -582,107 +599,37 @@ CCTV-17,http://tvbox.cdtyk.com/live/iptv.php?id=4200000204
 
 
 线路三 ,#genre#
-cctv1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
-cctv1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?&encrypt=
-cctv1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?&encrypt=
-cctv1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
-cctv2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
-cctv2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
-cctv2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?&encrypt=
-cctv2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?&encrypt=
-cctv3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
-cctv3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
-cctv3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?&encrypt=
-cctv4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/50/index.m3u8?&encrypt=
-cctv5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
-cctv5,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=
-cctv5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?&encrypt=
-cctv5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
-cctv5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
-cctv5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?&encrypt=
-cctv5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?&encrypt=
-cctv6,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?&encrypt=
-cctv6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
-cctv6,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=
-cctv6,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?&encrypt=
-cctv7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
-cctv7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?&encrypt=
-cctv7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?&encrypt=
-cctv8,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
-cctv8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
-cctv8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
-cctv8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=
-cctv9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
-cctv9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?&encrypt=
-cctv9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?&encrypt=
-cctv10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
-cctv10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?&encrypt=
-cctv11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd265/55/20200407/index.m3u8?&encrypt=
-cctv11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
-cctv11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?&encrypt=
-cctv11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?&encrypt=
-cctv12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
-cctv12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?&encrypt=
-cctv12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/50/index.m3u8?&encrypt=
-cctv13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/1000/index.m3u8?&encrypt=
-cctv13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=
-cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?&encrypt=
-cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
-cctv14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?&encrypt=
-cctv14,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv14hd265/55/20200407/index.m3u8?&encrypt=
-cctv15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
-cctv15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/50/index.m3u8?&encrypt=
-cctv15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&encrypt=
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?&encrypt=
-云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
-内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
-吉林卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
-宁夏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?&encrypt=
-山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/index.m3u8?&encrypt=
-山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
-广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
-广东卫视,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
-广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?&encrypt=
-广西卫视,http://hlsbkmgsplive.miguvideo.com/wd-guangxiwssd-600/index.m3u8?&encrypt=
-新疆卫视,http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?&encrypt=
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/ymkt/600/index.m3u8?&encrypt=
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?&encrypt=
-河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?&encrypt=
-湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=
-湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/index.m3u8?&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/index.m3u8?&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-600/index.m3u8?&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jinyingjishi/1200/index.m3u8?&encrypt=
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jinyingjishi/600/index.m3u8?&encrypt=
-甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
-西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/1000/index.m3u8?&encrypt=
-贵州卫视,http://hlsbkmgsplive.miguvideo.com/wd-guizhouwssd-600/index.m3u8?&encrypt=
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
-陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=
-青海卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?&encrypt=
-华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/150/index.m3u8?&encrypt=
-华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/50/index.m3u8?&encrypt=
-华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/50/index.m3u8?&encrypt=
-华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/150/index.m3u8?&encrypt=
-华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/75/index.m3u8?&encrypt=
-华视,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/75/index.m3u8?&encrypt=
+CCTV1,http://218.241.192.50:8808/udp/239.3.1.129:8008
+CCTV2,http://218.241.192.50:8808/udp/239.3.1.60:8084
+CCTV3,http://218.241.192.50:8808/udp/239.3.1.172:8001
+CCTV4,http://218.241.192.50:8808/udp/239.3.1.105:8092
+CCTV5,http://218.241.192.50:8808/udp/239.3.1.173:8001
+CCTV5+,http://218.241.192.50:8808/udp/239.3.1.130:8004
+CCTV6,http://218.241.192.50:8808/udp/239.3.1.174:8001
+CCTV7,http://218.241.192.50:8808/udp/239.3.1.61:8104
+CCTV8,http://218.241.192.50:8808/udp/239.3.1.175:8001
+CCTV9,http://218.241.192.50:8808/udp/239.3.1.62:8112
+CCTV10,http://218.241.192.50:8808/udp/239.3.1.63:8116
+CCTV14,http://218.241.192.50:8808/udp/239.3.1.65:8132
+CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136
+CCTV16,http://218.241.192.50:8808/udp/239.3.1.184:8001
+CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144
+安徽卫视,http://218.241.192.50:8808/udp/239.3.1.211:8064
+东方卫视,http://218.241.192.50:8808/udp/239.3.1.136:8032
+东南卫视,http://218.241.192.50:8808/udp/239.3.1.156:8148
+广东卫视,http://218.241.192.50:8808/udp/239.3.1.142:8048
+贵州卫视,http://218.241.192.50:8808/udp/239.3.1.149:8076
+黑龙江卫视,http://218.241.192.50:8808/udp/239.3.1.133:8016
+湖北卫视,http://218.241.192.50:8808/udp/239.3.1.138:8044
+吉林卫视,http://218.241.192.50:8808/udp/239.3.1.240:8172
+江苏卫视,http://218.241.192.50:8808/udp/239.3.1.135:8028
+江西卫视,http://218.241.192.50:8808/udp/239.3.1.123:8164
+辽宁卫视,http://218.241.192.50:8808/udp/239.3.1.210:8056
+山东卫视,http://218.241.192.50:8808/udp/239.3.1.209:8052
+深圳卫视,http://218.241.192.50:8808/udp/239.3.1.134:8020
+天津卫视,http://218.241.192.50:8808/udp/239.3.1.141:1234
+浙江卫视,http://218.241.192.50:8808/udp/239.3.1.137:8036
+重庆卫视,http://218.241.192.50:8808/udp/239.3.1.122:8160
 
 线路四 ,#genre# 
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -881,6 +828,14 @@ SiTV法治天地,
 SiTV金色学堂,
 SiTV七彩戏剧,
 SiTV东方财经·浦东,
+第一财经,
+东方影视,
+纪实人文,
+上海都市,
+上视外语,
+上海教育,
+五星体育,
+哈哈炫动,
 
 SiTV都市剧场,http://112.25.48.69/live/program/live/dsjchd/4000000/mnf.m3u8?blog.ntnas.top
 SiTV欢笑剧场,http://112.25.48.69/live/program/live/hxjchd/4000000/mnf.m3u8?blog.ntnas.top
@@ -891,6 +846,7 @@ SiTV魅力足球,http://112.25.48.69/live/program/live/mlyyhd/4000000/mnf.m3u8?b
 SiTV乐游,http://112.25.48.69/live/program/live/qjshd/4000000/mnf.m3u8?blog.ntnas.top
 SiTV新视觉,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 
+上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 东方卫视,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8$720p
 哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8?zshangd
 哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8$540p
@@ -995,6 +951,11 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
 ⛵  全球,#genre#
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 新加坡亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1018,6 +979,10 @@ NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=23
 NASA,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 CNA,http://158.101.151.82:9000/jmsytb.m3u8?c=25
 SKY news,http://158.101.151.82:9000/jmsytb.m3u8?c=29
+HBO,http://208.115.225.174:14165
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
 
 🍑 NewTV剧场,#genre#
 黑莓电影,
